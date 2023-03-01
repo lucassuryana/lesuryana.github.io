@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Algorithmic Collusion on Online Marketplaces](/sample_page)
+<img src="images/economy.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
