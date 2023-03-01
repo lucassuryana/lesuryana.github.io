@@ -4,7 +4,7 @@
 
 ### Research
 
-[Algorithmic Collusion on Online Marketplaces](https://medium.com/@lucaselbert/extracting-gopro-gps-and-other-telemetry-data-fadf97ed1834)
+[Extracting Go Pro telemetry data](https://medium.com/@lucaselbert/extracting-gopro-gps-and-other-telemetry-data-fadf97ed1834)
 <img src="images/gopro.webp?raw=true"/>
 
 ---
