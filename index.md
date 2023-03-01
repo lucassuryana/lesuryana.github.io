@@ -4,7 +4,7 @@
 
 ### Research
 
-[Algorithmic Collusion on Online Marketplaces](/sample_page)
+[Algorithmic Collusion on Online Marketplaces](http://example.com/)
 <img src="images/gopro.webp?raw=true"/>
 
 ---
