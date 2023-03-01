@@ -5,7 +5,7 @@
 ### Research
 
 [Algorithmic Collusion on Online Marketplaces](/sample_page)
-<img src="images/economy.png?raw=true"/>
+<img src="images/gopro.webp?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
