@@ -4,7 +4,7 @@
 
 ### Research
 
-[Algorithmic Collusion on Online Marketplaces](http://example.com/)
+[Algorithmic Collusion on Online Marketplaces]([http://example.com/](https://medium.com/@lucaselbert/extracting-gopro-gps-and-other-telemetry-data-fadf97ed1834))
 <img src="images/gopro.webp?raw=true"/>
 
 ---
